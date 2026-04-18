@@ -1,0 +1,34 @@
+Phase 1: Setup & Keyword Discovery
+Goal: Understand what users are actually searching for.
+Tool: Google Trends
+Activity: Compare two related terms (e.g., "Cyber Security Course" vs.
+"Ethical Hacking Training").
+Task: Identify which term has higher interest in your specific region
+over the last 12 months.
+Tool: AnswerThePublic
+Activity: Enter a "seed" keyword related to the chosen website.
+Task: Students must find 3 "Question" keywords (Starting with Who,
+What, Why) that the website should answer to rank better.
+Phase 2: On-Page SEO Audit
+Goal: Analyze how search engines "see" the page content.
+1. Tool: SEO Quake
+(Chrome Extension)
+Task: Run a "Diagnosis" on the homepage.
+Checklist: Is the Title Tag under 60 characters?
+Is there a Meta Description? (If not, students must write one).
+2. Tool: Google PageSpeed Insights
+Activity: Analyze the mobile vs. desktop performance.
+Task: Note the Core Web Vitals score and list two specific images that need
+compression to improve speed.
+Phase 3: Off-Page & Authority Check
+Goal: Measure the website's "reputation" on the web.
+Tool: Ahrefs Backlink Checker
+(Free version)
+Activity: Enter the URL to see the Domain Rating (DR) and number
+of backlinks.
+Task: Identify the "Top 5" referring domains. Are they high-quality
+educational/news sites or low-quality directories?
+Tool: Moz Link Explorer
+Activity: Check the Spam Score.
+Task: Discuss why a high spam score (over 10%) is dangerous for a
+website's health.
